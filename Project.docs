@@ -1,0 +1,25 @@
+Personal Expense Tracker
+OVERVIEW
+You are creating a mobile app that allows users to track their daily spending and manage
+their day-to-day spending. It has categories which in turn have sub categories in which users
+can categorize the type of spending. Ex: 500 Rs Movie ticket may be classified as
+Recreational expenses in the sub category movies. Certain transactions may incur GST /
+TAX which must be considered. GST may vary depending on expenses, for example certain
+expenses may incur tax of 2%, some may have a tax of 8% and some may incur no tax at
+all.
+It also allows you to enter earnings from various sources.
+TASKS
+Create stored procedures for the following
+1) Total Expenses and earnings for the month of ___________
+2) Taxes paid in ____________ category, shown sub-category wise.
+3) In which sub-categories, there have been no expenses
+4) Which months have been “profitable” (total income is more than total expense)?
+(HARD)
+5) Create a TRIGGER that ensures that the total spending per month does not exceed
+50000 Rs
+
+DELIVERABLES
+1) ER Diagram
+2) Queries for the above tasks.
+3) A .SQL file containing the data and schema of the tables so created (both “CREATE”
+and “INSERT”)
