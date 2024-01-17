@@ -1,6 +1,4 @@
 # Personal_Expense_Tracker_SQL
-# GitHub Report: Personal Expense Tracker Database
-
 ## Overview
 
 This GitHub repository contains SQL scripts to create a database schema for a Personal Expense Tracker. The database is designed to track various expense-related information, including categories, subcategories, expenses, earnings, taxes, and user access control.
